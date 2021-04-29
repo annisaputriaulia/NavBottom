@@ -1,0 +1,21 @@
+com/example/tugasrecycler/KpopActivity.java
+ com.example.tugasrecycler.KpopActivity
+com/example/tugasrecycler/FavouriteActivity.java
+ com.example.tugasrecycler.FavouriteActivity
+com/example/tugasrecycler/BuildConfig.java
+ com.example.tugasrecycler.BuildConfig
+com/example/tugasrecycler/BandsAdapter.java
+ com.example.tugasrecycler.BandsAdapter
+ com.example.tugasrecycler.BandsAdapter$1
+ com.example.tugasrecycler.BandsAdapter$ViewHolder
+com/example/tugasrecycler/DramaActivity.java
+ com.example.tugasrecycler.DramaActivity
+com/example/tugasrecycler/MainActivity.java
+ com.example.tugasrecycler.MainActivity
+com/example/tugasrecycler/Details.java
+ com.example.tugasrecycler.Details
+ com.example.tugasrecycler.Details$1
+com/example/tugasrecycler/BandsDatabase.java
+ com.example.tugasrecycler.BandsDatabase
+com/example/tugasrecycler/BandsModel.java
+ com.example.tugasrecycler.BandsModel
